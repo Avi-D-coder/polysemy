@@ -31,7 +31,7 @@ custom-setup
   setup-depends:
       Cabal
     , base >=4.9 && <5
-    , cabal-doctest >=1.0.6 && <1.1
+    , cabal-doctest >=1.0.8 && <1.1
 
 flag corelint
   description: Perform the corelint tests
